@@ -4,3 +4,5 @@ console.log('aaaaaaa')
 
 var b = 456
 var c = 678 
+var a = 1234
+var c = 7890
